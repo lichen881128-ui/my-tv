@@ -45,7 +45,13 @@
       "playerType": 1
     },
     {
-      "name": "🇺🇸 美国主流电视与新闻台",
+      "name": "🇺🇸 美国核心精选台 (ABC/Bloomberg/NASA)",
+      "type": 0,
+      "url": "https://cdn.jsdelivr.net/gh/lichen881128-ui/my-tv@main/us_top.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "🇺🇸 美国全境电视频道合集 (几千台)",
       "type": 0,
       "url": "https://iptv-org.github.io/iptv/countries/us.m3u",
       "playerType": 1

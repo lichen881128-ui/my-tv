@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ABCNewsLive1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="美国精选",ABC News Live (美国ABC新闻)
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8
+#EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png" group-title="美国精选",Bloomberg Originals (彭博财经频道)
+https://bloomberg.com/media-manifest/streams/qt.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="美国精选",Bloomberg TV (彭博电视)
+http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
+#EXTINF:-1 tvg-id="NASATVMedia.us" tvg-logo="https://i.imgur.com/k6wZ4G6.png" group-title="美国精选",NASA TV (美国宇航局高清直播)
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-id="RedBullTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Red_Bull_TV_logo.svg/1200px-Red_Bull_TV_logo.svg.png" group-title="美国精选",Red Bull TV (红牛极限运动 1080P)
+https://rbmn-live.akamaized.net/hls/live/590964/geoRBMN/master.m3u8
