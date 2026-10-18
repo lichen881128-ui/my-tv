@@ -1,58 +1,83 @@
-央视频道,#genre#
-CCTV-1,http://120.198.95.220:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&down=1#http://120.76.248.139/live/bfgd/4200000058.m3u8
-CCTV-2,http://120.76.248.139/live/bfgd/4200000061.m3u8
-CCTV-3,http://120.198.95.220:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0#http://222.169.85.8:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0#http://120.76.248.139/live/bfgd/4200000060.m3u8
-CCTV-4,http://120.76.248.139/live/bfgd/4200000063.m3u8
-CCTV-5,http://120.76.248.139/live/bfgd/4200000064.m3u8
-CCTV-5+,http://120.76.248.139/live/bfgd/4200000246.m3u8#http://223.78.65.165:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-6,http://120.76.248.139/live/bfgd/4200000065.m3u8
-CCTV-7,http://120.76.248.139/live/bfgd/4200000066.m3u8
-CCTV-9,http://120.198.95.220:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0#http://222.169.85.8:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-12,http://120.198.95.220:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0#http://222.169.85.8:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8#http://120.76.248.139/live/bfgd/4200000067.m3u8
-CCTV-14,http://120.76.248.139/live/bfgd/4200000068.m3u8
+🇨🇳 央视超清,#genre#
+CCTV-1 综合,http://39.135.138.58:1888/whct/live/cctv-1/1.m3u8#http://[2409:8087:7000:20:1000::22]:6060/txtv/00000001000000050000000000000277/index.m3u8
+CCTV-2 财经,http://39.135.138.58:1888/whct/live/cctv-2/1.m3u8
+CCTV-3 综艺,http://39.135.138.58:1888/whct/live/cctv-3/1.m3u8
+CCTV-4 中文国际,http://39.135.138.58:1888/whct/live/cctv-4/1.m3u8
+CCTV-5 体育,http://39.135.138.58:1888/whct/live/cctv-5/1.m3u8
+CCTV-5+ 体育赛事,http://39.135.138.58:1888/whct/live/cctv-5plus/1.m3u8
+CCTV-6 电影,http://39.135.138.58:1888/whct/live/cctv-6/1.m3u8
+CCTV-7 国防军事,http://39.135.138.58:1888/whct/live/cctv-7/1.m3u8
+CCTV-8 电视剧,http://39.135.138.58:1888/whct/live/cctv-8/1.m3u8
+CCTV-9 纪录,http://39.135.138.58:1888/whct/live/cctv-9/1.m3u8
+CCTV-10 科教,http://39.135.138.58:1888/whct/live/cctv-10/1.m3u8
+CCTV-11 戏曲,http://39.135.138.58:1888/whct/live/cctv-11/1.m3u8
+CCTV-12 社会与法,http://39.135.138.58:1888/whct/live/cctv-12/1.m3u8
+CCTV-13 新闻,http://39.135.138.58:1888/whct/live/cctv-13/1.m3u8
+CCTV-14 少儿,http://39.135.138.58:1888/whct/live/cctv-14/1.m3u8
+CCTV-15 音乐,http://39.135.138.58:1888/whct/live/cctv-15/1.m3u8
+CCTV-16 奥林匹克,http://39.135.138.58:1888/whct/live/cctv-16/1.m3u8
+CCTV-17 农业农村,http://39.135.138.58:1888/whct/live/cctv-17/1.m3u8
 
-卫视频道,#genre#
-东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8#https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
-湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8#http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-北京卫视,http://120.76.248.139/live/bfgd/4200000083.m3u8
-广东卫视,http://120.76.248.139/live/bfgd/4200000092.m3u8
-深圳卫视,http://120.76.248.139/live/bfgd/4200000100.m3u8
-山东卫视,http://120.76.248.139/live/bfgd/4200000099.m3u8
-湖北卫视,http://120.76.248.139/live/bfgd/4200000102.m3u8
-河南卫视,http://111.59.139.82:11888/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视,http://120.76.248.139/live/bfgd/4200000108.m3u8#https://event.pull.hebtv.com/live/live101.m3u8
-黑龙江卫视,http://120.76.248.139/live/bfgd/4200000095.m3u8
-东南卫视,http://120.76.248.139/live/bfgd/4200000483.m3u8
-广西卫视,http://120.76.248.139/live/bfgd/4200000116.m3u8
-甘肃卫视,http://120.76.248.139/live/bfgd/4200000119.m3u8
-青海卫视,http://120.76.248.139/live/bfgd/4200000111.m3u8
-云南卫视,http://120.76.248.139/live/bfgd/4200000482.m3u8
+🇨🇳 各大卫视,#genre#
+湖南卫视,http://39.135.138.58:1888/whct/live/hunanhd/1.m3u8
+浙江卫视,http://39.135.138.58:1888/whct/live/zhejianghd/1.m3u8
+东方卫视,http://39.135.138.58:1888/whct/live/dongfanghd/1.m3u8
+江苏卫视,http://39.135.138.58:1888/whct/live/jiangsuhd/1.m3u8
+北京卫视,http://39.135.138.58:1888/whct/live/beijinghd/1.m3u8
+广东卫视,http://39.135.138.58:1888/whct/live/guangdonghd/1.m3u8
+深圳卫视,http://39.135.138.58:1888/whct/live/shenzhenhd/1.m3u8
+山东卫视,http://39.135.138.58:1888/whct/live/shandonghd/1.m3u8
+湖北卫视,http://39.135.138.58:1888/whct/live/hubeihd/1.m3u8
+河南卫视,http://39.135.138.58:1888/whct/live/henanhd/1.m3u8
+四川卫视,http://39.135.138.58:1888/whct/live/sichuanhd/1.m3u8
+安徽卫视,http://39.135.138.58:1888/whct/live/anhuihd/1.m3u8
+重庆卫视,http://39.135.138.58:1888/whct/live/chongqinghd/1.m3u8
+天津卫视,http://39.135.138.58:1888/whct/live/tianjinhd/1.m3u8
 
-港澳台,#genre#
-TVBS Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-凤凰中文,https://7612-5516-affc-d88b.kylintv.tv/live/pxinhd_iphone.m3u8
-凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰香港,http://r.jdshipin.com/yDoTN
-无线星河,http://r.jdshipin.com/Voac4
-翡翠台,http://r.jdshipin.com/qClQf
+🇺🇸 美国主流大台,#genre#
+CNN 新闻台,https://turnerlive.warnermediacdn.com/hls/live/582485/cnngo/cnn/slate/VIDEO_0_5476000.m3u8
+CNBC 财经新闻,https://cnbc-live.akamaized.net/hls/live/2012012/cnbc-tv/master.m3u8
+Bloomberg 彭博全球财经,https://bloomberg.com/media-manifest/streams/asia.m3u8#https://bloomberg.com/media-manifest/streams/eu.m3u8
+Bloomberg Originals 彭博原创新闻,https://bloomberg.com/media-manifest/streams/us.m3u8
+Fox News 福克斯新闻,https://tvsen6.aynaott.com/foxnews/index.m3u8
+Fox Business 福克斯商业,https://tvsen6.aynaott.com/foxbusiness/index.m3u8
+ABC News Live 全球新闻,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+CBS News 24/7 直播,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f1345948924b23d902e861d/master.m3u8
+NBC News NOW 全球直播,https://ad-delivery.net/hls/live/2034331/inets/master.m3u8
+Reuters TV 路透社新闻,https://reuters-reutersnow-1-eu.rakuten.wurl.tv/playlist.m3u8
+NASA TV 宇航局太空直播,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+PBS 核心公共电台,https://livestream.pbs.org/hls/national/live.m3u8
+PBS Kids 动画少儿,https://livestream.pbs.org/hls/kids/live.m3u8
+Red Bull TV 红牛极限体育,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+The Weather Channel 天气频道,https://weather-weatherchannel-1-us.samsung.wurl.tv/playlist.m3u8
 
-欧美与国际精选,#genre#
-Bloomberg TV,https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8#http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
-Bloomberg Originals,https://www.bloomberg.com/media-manifest/streams/originals-global.m3u8
-Bloomberg TV Asia,https://bloomberg.com/media-manifest/streams/asia.m3u8
-Bloomberg TV Europe,https://bloomberg.com/media-manifest/streams/eu.m3u8
-NASA TV,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-DW English,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-Fox News Channel,https://tvsen6.aynaott.com/foxnews/index.m3u8#http://138.121.15.230:9002/FOX-NEWS/index.m3u8
-Fox Business Network,https://tvsen6.aynaott.com/foxbusiness/index.m3u8#https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8
-Fox Sports 1,http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
-LiveNOW from FOX,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-NBC News NOW,https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
-NBC Sports NOW,https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
-CBS News Los Angeles,https://dai.google.com/linear/hls/pa/event/K_2aA7OVRTacJJli1oSi8w/stream/42e4ec14-fe53-469b-bc85-677ed0b245f4:ATL/variant/344ab3b460bc514714f94805d600b130/bandwidth/2121247.m3u8
-Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-Sky News Weather,https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
+🇯🇵 日本主流电视台,#genre#
+日テレNEWS (NTV/日本电视台),https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
+FNN富士新闻 (Fuji TV/富士电视台),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news4-cmaf-rakutenjp/playlist.m3u8
+TOKYO MX 动漫综合台,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tokyomx-cmaf-rakutenjp/playlist.m3u8
+NHK WORLD-JAPAN 国际广播,https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
+ウェザーニュースLiVE (日本天气台),https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+MBS每日放送 (TBS系近畿),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news5-cmaf-rakutenjp/playlist.m3u8
+
+🇰🇷 韩国主流电视台,#genre#
+KBS 1TV,http://kbs-hls.gslb.toastcdn.net/live/kbs_1tv/kbs_1tv.m3u8
+KBS World,https://kbs-hls.gslb.toastcdn.net/live/kbs_world/kbs_world.m3u8
+KBS Joy,https://kbs-hls.gslb.toastcdn.net/live/kbs_joy/kbs_joy.m3u8
+SBS TV,https://sbs-live.cdn.toast.ne.kr/sbs_live/sbs_live.m3u8
+MBC TV,https://mbc-live.cdn.toast.ne.kr/mbc_live/mbc_live.m3u8
+OBS TV,https://obs.cdn.toast.ne.kr/obs/obs.m3u8
+Arirang TV 阿里郎国际台,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+EBS 1TV 韩国教育台,https://ebs-live.cdn.toast.ne.kr/ebs1/ebs1.m3u8
+EBS 2TV 综合频道,https://ebs-live.cdn.toast.ne.kr/ebs2/ebs2.m3u8
+EBS Kids 韩国少儿,https://ebs-live.cdn.toast.ne.kr/ebskids/ebskids.m3u8
+
+🇹🇭 泰国主流电视台,#genre#
+Channel 3 (3HD 泰国3台王牌),https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8
+Thai PBS 泰国公共广播,https://live-us1.thaimomo.com/live-as/chThaipbshd-2/playlist.m3u8
+Nation TV 泰国国家新闻,https://live-us1.thaimomo.com/live-as/chNation-3/playlist.m3u8
+True4U 泰国热门娱乐台,https://live-us1.thaimomo.com/live-as/chTrue4u-2/playlist.m3u8
+NBT 2 HD 泰国广播电视,https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8
+T Sports 7 泰国国家体育台,https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8
+Top News 泰国热点新闻,https://live.topnews.co.th/hls/topnews_a_720.m3u8
+News1 泰国第一新闻,https://live-us1.thaimomo.com/live-as/chnews1-2/playlist.m3u8
+CNA 亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8
