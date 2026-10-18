@@ -1,19 +1,20 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/easy1008.jar;md5;b5c71cca5b4e242af6feb755e9cac308",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "sites": [
     {
-      "key": "lz",
-      "name": "🎬 量子影视 (海报推荐/秒播)",
-      "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "key": "ddys",
+      "name": "🌟 低端影视 (原盘压制/1080P/零广告)",
+      "type": 3,
+      "api": "csp_Ddys",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://ddys.pro/$$$proxy$$$1$$$"
     },
     {
       "key": "bf",
-      "name": "🎬 暴风资源 (超清专线)",
+      "name": "🎬 暴风精选 (秒播直连/稳定)",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -21,72 +22,105 @@
       "filterable": 1
     },
     {
-      "key": "sn",
-      "name": "🎬 索尼影视 (4K蓝光)",
+      "key": "modu",
+      "name": "🎬 魔都影院 (全网新片/超清)",
       "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/",
+      "api": "https://caiji.moduapi.cc/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "js",
-      "name": "🎬 极速资源 (秒开直连)",
-      "type": 1,
-      "api": "https://jszyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "gs",
-      "name": "🎬 光速资源 (快速备用)",
-      "type": 1,
-      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "hn",
-      "name": "🎬 红牛影视 (原画专线)",
-      "type": 1,
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "cz",
-      "name": "🏭 厂长影视 (蓝光无广)",
+      "key": "Wo4k",
+      "name": "💎 玩偶4K (4K蓝光原盘/免NAS免硬盘)",
       "type": 3,
-      "api": "csp_Czsapp",
+      "api": "csp_Wo4k",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://cz01.vip"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/token.json$$$https://www.wo4k.com/$$$proxy$$$1$$$"
+    },
+    {
+      "key": "douban",
+      "name": "🔥 豆瓣热播 (高分影视榜单推荐)",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/douban.json"
+    }
+  ],
+  "parses": [
+    {
+      "name": "Json聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "虾米",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "bilibili"
+        ]
+      }
+    },
+    {
+      "name": "PM",
+      "url": "https://www.playm3u8.cn/jiexi.php?url=",
+      "type": 0,
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
+      "name": "m3u8",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },
+    {
+      "name": "8090",
+      "url": "https://www.8090.la/8090/?url=",
+      "type": 0,
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
+      "name": "咸鱼",
+      "type": 0,
+      "url": "https://jx.xyflv.cc/?url=",
+      "ext": {
+        "header": {
+          "referer": "https://www.xyflv.cc/"
+        }
+      }
     }
   ],
   "lives": [
     {
-      "name": "🌟 全球核心电视 (央卫/美/日/韩/泰高清)",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/file/live.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15"
-    },
-    {
-      "name": "🌐 云端镜像 (美/日/韩/泰/央视/卫视)",
+      "name": "🌟 我的专属电视 (全量实测/央卫/欧美/国家地理/日韩泰)",
       "type": 0,
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lichen881128-ui/my-tv/main/live.txt",
       "playerType": 1,
       "ua": "okhttp/3.15"
     },
     {
-      "name": "🇨🇳 央视与各省卫视超清 (备用直连)",
+      "name": "📱 电视本地直连 (/sdcard/live.txt)",
       "type": 0,
-      "url": "https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/m3u/itv.m3u",
-      "playerType": 1
+      "url": "http://127.0.0.1:9978/file/live.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15"
     }
   ]
 }
