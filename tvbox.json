@@ -1952,9 +1952,16 @@
   ],
   "lives": [
     {
-      "name": "🌟 聚合直播 (央视/卫视/美台/港澳)",
+      "name": "🌟 高清直播 (央视1-17/卫视/欧美高清)",
       "type": 0,
-      "url": "https://cdn.jsdelivr.net/gh/lichen881128-ui/my-tv@main/live.txt",
+      "url": "clan://localhost/live.txt",
+      "playerType": 2,
+      "ua": "okhttp/3.15"
+    },
+    {
+      "name": "🌐 云端镜像 (央视/卫视/欧美)",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lichen881128-ui/my-tv/main/live.txt",
       "playerType": 2,
       "ua": "okhttp/3.15"
     },
