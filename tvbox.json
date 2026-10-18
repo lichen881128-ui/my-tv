@@ -1954,7 +1954,7 @@
     {
       "name": "🌟 高清直播 (央视1-17/卫视/欧美高清)",
       "type": 0,
-      "url": "clan://localhost/live.txt",
+      "url": "http://127.0.0.1:9978/file/live.txt",
       "playerType": 2,
       "ua": "okhttp/3.15"
     },
