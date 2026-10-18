@@ -1,14 +1,14 @@
 央视频道,#genre#
 CCTV-1,http://120.198.95.220:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&down=1#http://120.76.248.139/live/bfgd/4200000058.m3u8
 CCTV-2,http://120.76.248.139/live/bfgd/4200000061.m3u8
-CCTV-3,http://74.91.26.218:82/live/cctv3hd.m3u8#http://120.76.248.139/live/bfgd/4200000060.m3u8#http://120.76.248.139/live/bfgd/4200000062.m3u8
+CCTV-3,http://120.198.95.220:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0#http://222.169.85.8:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0#http://120.76.248.139/live/bfgd/4200000060.m3u8
 CCTV-4,http://120.76.248.139/live/bfgd/4200000063.m3u8
 CCTV-5,http://120.76.248.139/live/bfgd/4200000064.m3u8
 CCTV-5+,http://120.76.248.139/live/bfgd/4200000246.m3u8#http://223.78.65.165:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6,http://120.76.248.139/live/bfgd/4200000065.m3u8
 CCTV-7,http://120.76.248.139/live/bfgd/4200000066.m3u8
-CCTV-9,http://74.91.26.218:82/live/cctv9hd.m3u8
-CCTV-12,http://74.91.26.218:82/live/cctv12hd.m3u8
+CCTV-9,http://120.198.95.220:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0#http://222.169.85.8:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12,http://120.198.95.220:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0#http://222.169.85.8:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8#http://120.76.248.139/live/bfgd/4200000067.m3u8
 CCTV-14,http://120.76.248.139/live/bfgd/4200000068.m3u8
 
