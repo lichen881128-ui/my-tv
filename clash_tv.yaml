@@ -1,0 +1,39 @@
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: rule
+log-level: info
+unified-delay: true
+tcp-concurrent: true
+
+proxies:
+  - name: "🇺🇸 IT7-la1 Hysteria2 (主战)"
+    type: hysteria2
+    server: 67.230.164.140
+    port: 33877
+    password: "0368d810-f164-4674-a158-4f2310209b6d"
+    sni: www.bing.com
+    skip-cert-verify: true
+    udp: true
+    alpn:
+      - h3
+  - name: "🇺🇸 RackNerd-us1 Hysteria2 (备用)"
+    type: hysteria2
+    server: 104.168.12.121
+    port: 56599
+    password: "46ab6bab-cc54-4d21-979a-b24a80108e68"
+    sni: www.bing.com
+    skip-cert-verify: true
+    udp: true
+
+proxy-groups:
+  - name: 🚀 默认代理
+    type: select
+    proxies:
+      - "🇺🇸 IT7-la1 Hysteria2 (主战)"
+      - "🇺🇸 RackNerd-us1 Hysteria2 (备用)"
+      - DIRECT
+
+rules:
+  - GEOIP,CN,DIRECT
+  - MATCH,🚀 默认代理
