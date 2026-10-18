@@ -1952,9 +1952,21 @@
   ],
   "lives": [
     {
-      "name": "🇨🇳 央视与各省卫视超清",
+      "name": "🇨🇳 央视与各省卫视超清 (IPv4直连)",
       "type": 0,
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "url": "https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/m3u/itv.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "🇨🇳 央视与各省卫视超清 (IPv6)",
+      "type": 0,
+      "url": "https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/m3u/ipv6.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "🇨🇳 咪咕全频道合集 (含4K体育)",
+      "type": 0,
+      "url": "https://cdn.jsdelivr.net/gh/YanG-1989/m3u@main/Gather.m3u",
       "playerType": 1
     },
     {
