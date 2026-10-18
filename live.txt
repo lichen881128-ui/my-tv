@@ -1,58 +1,39 @@
 🇨🇳 央视超清,#genre#
-CCTV-1 综合,http://39.135.138.58:1888/whct/live/cctv-1/1.m3u8#http://[2409:8087:7000:20:1000::22]:6060/txtv/00000001000000050000000000000277/index.m3u8
-CCTV-2 财经,http://39.135.138.58:1888/whct/live/cctv-2/1.m3u8
-CCTV-3 综艺,http://39.135.138.58:1888/whct/live/cctv-3/1.m3u8
-CCTV-4 中文国际,http://39.135.138.58:1888/whct/live/cctv-4/1.m3u8
-CCTV-5 体育,http://39.135.138.58:1888/whct/live/cctv-5/1.m3u8
-CCTV-5+ 体育赛事,http://39.135.138.58:1888/whct/live/cctv-5plus/1.m3u8
-CCTV-6 电影,http://39.135.138.58:1888/whct/live/cctv-6/1.m3u8
-CCTV-7 国防军事,http://39.135.138.58:1888/whct/live/cctv-7/1.m3u8
-CCTV-8 电视剧,http://39.135.138.58:1888/whct/live/cctv-8/1.m3u8
-CCTV-9 纪录,http://39.135.138.58:1888/whct/live/cctv-9/1.m3u8
-CCTV-10 科教,http://39.135.138.58:1888/whct/live/cctv-10/1.m3u8
-CCTV-11 戏曲,http://39.135.138.58:1888/whct/live/cctv-11/1.m3u8
-CCTV-12 社会与法,http://39.135.138.58:1888/whct/live/cctv-12/1.m3u8
-CCTV-13 新闻,http://39.135.138.58:1888/whct/live/cctv-13/1.m3u8
-CCTV-14 少儿,http://39.135.138.58:1888/whct/live/cctv-14/1.m3u8
-CCTV-15 音乐,http://39.135.138.58:1888/whct/live/cctv-15/1.m3u8
-CCTV-16 奥林匹克,http://39.135.138.58:1888/whct/live/cctv-16/1.m3u8
-CCTV-17 农业农村,http://39.135.138.58:1888/whct/live/cctv-17/1.m3u8
+CCTV-1 综合,http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV-2 财经,http://74.91.26.218:82/live/cctv2hd.m3u8
+CCTV-3 综艺,http://74.91.26.218:82/live/cctv3hd.m3u8
+CCTV-4 中文国际,http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV-6 电影,http://74.91.26.218:82/live/cctv6hd.m3u8
+CCTV-7 国防军事,http://74.91.26.218:82/live/cctv7hd.m3u8
+CCTV-8 电视剧,http://74.91.26.218:82/live/cctv8hd.m3u8
+CCTV-9 纪录,http://74.91.26.218:82/live/cctv9hd.m3u8
+CCTV-10 科教,http://74.91.26.218:82/live/cctv10hd.m3u8
+CCTV-11 戏曲,http://74.91.26.218:82/live/cctv11hd.m3u8
+CCTV-12 社会与法,http://74.91.26.218:82/live/cctv12hd.m3u8
+CCTV-13 新闻,http://74.91.26.218:82/live/cctv13hd.m3u8
+CCTV-14 少儿,http://74.91.26.218:82/live/cctv14hd.m3u8
+CCTV-15 音乐,http://74.91.26.218:82/live/cctv15hd.m3u8
+CCTV-17 农业农村,http://74.91.26.218:82/live/cctv17hd.m3u8
 
 🇨🇳 各大卫视,#genre#
-湖南卫视,http://39.135.138.58:1888/whct/live/hunanhd/1.m3u8
-浙江卫视,http://39.135.138.58:1888/whct/live/zhejianghd/1.m3u8
-东方卫视,http://39.135.138.58:1888/whct/live/dongfanghd/1.m3u8
-江苏卫视,http://39.135.138.58:1888/whct/live/jiangsuhd/1.m3u8
-北京卫视,http://39.135.138.58:1888/whct/live/beijinghd/1.m3u8
-广东卫视,http://39.135.138.58:1888/whct/live/guangdonghd/1.m3u8
-深圳卫视,http://39.135.138.58:1888/whct/live/shenzhenhd/1.m3u8
-山东卫视,http://39.135.138.58:1888/whct/live/shandonghd/1.m3u8
-湖北卫视,http://39.135.138.58:1888/whct/live/hubeihd/1.m3u8
-河南卫视,http://39.135.138.58:1888/whct/live/henanhd/1.m3u8
-四川卫视,http://39.135.138.58:1888/whct/live/sichuanhd/1.m3u8
-安徽卫视,http://39.135.138.58:1888/whct/live/anhuihd/1.m3u8
-重庆卫视,http://39.135.138.58:1888/whct/live/chongqinghd/1.m3u8
-天津卫视,http://39.135.138.58:1888/whct/live/tianjinhd/1.m3u8
+湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8#http://107.150.60.122/live/hnwshd.m3u8
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+东方卫视,http://107.150.60.122/live/dfwshd.m3u8
+江苏卫视,http://107.150.60.122/live/jswshd.m3u8
+北京卫视,http://107.150.60.122/live/bjwshd.m3u8
+广东卫视,http://107.150.60.122/live/gdwshd.m3u8
 
 🇺🇸 美国主流大台,#genre#
-CNN 新闻台,https://turnerlive.warnermediacdn.com/hls/live/582485/cnngo/cnn/slate/VIDEO_0_5476000.m3u8
-CNBC 财经新闻,https://cnbc-live.akamaized.net/hls/live/2012012/cnbc-tv/master.m3u8
-Bloomberg 彭博全球财经,https://bloomberg.com/media-manifest/streams/asia.m3u8#https://bloomberg.com/media-manifest/streams/eu.m3u8
-Bloomberg Originals 彭博原创新闻,https://bloomberg.com/media-manifest/streams/us.m3u8
-Fox News 福克斯新闻,https://tvsen6.aynaott.com/foxnews/index.m3u8
-Fox Business 福克斯商业,https://tvsen6.aynaott.com/foxbusiness/index.m3u8
-ABC News Live 全球新闻,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-CBS News 24/7 直播,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f1345948924b23d902e861d/master.m3u8
-NBC News NOW 全球直播,https://ad-delivery.net/hls/live/2034331/inets/master.m3u8
-Reuters TV 路透社新闻,https://reuters-reutersnow-1-eu.rakuten.wurl.tv/playlist.m3u8
-NASA TV 宇航局太空直播,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-PBS 核心公共电台,https://livestream.pbs.org/hls/national/live.m3u8
-PBS Kids 动画少儿,https://livestream.pbs.org/hls/kids/live.m3u8
-Red Bull TV 红牛极限体育,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-The Weather Channel 天气频道,https://weather-weatherchannel-1-us.samsung.wurl.tv/playlist.m3u8
+Bloomberg TV+ (2160p 彭博4K旗舰),https://66e4bbba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8
+Bloomberg Originals (1080p 彭博原创),https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
+Bloomberg TV US (720p 彭博全美新闻),https://bloomberg.com/media-manifest/streams/us.m3u8
+beIN SPORTS XTRA (1080p 顶级体育频道),https://bein-xtra-bein.amagi.tv/playlist.m3u8
+AccuWeather NOW (720p 著名全美天气台),http://23.239.31.26:8989/accuweather/index.m3u8
+NASA TV (宇航局太空探索直播),https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+Red Bull TV (红牛全球极限赛事),https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 🇯🇵 日本主流电视台,#genre#
-日テレNEWS (NTV/日本电视台),https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
+日テレNEWS (NTV/日本电视台新闻网),https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
 FNN富士新闻 (Fuji TV/富士电视台),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news4-cmaf-rakutenjp/playlist.m3u8
 TOKYO MX 动漫综合台,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tokyomx-cmaf-rakutenjp/playlist.m3u8
 NHK WORLD-JAPAN 国际广播,https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
@@ -60,16 +41,14 @@ NHK WORLD-JAPAN 国际广播,https://media-osa.hls.nhkworld.jp/hls/w/live/master
 MBS每日放送 (TBS系近畿),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news5-cmaf-rakutenjp/playlist.m3u8
 
 🇰🇷 韩国主流电视台,#genre#
-KBS 1TV,http://kbs-hls.gslb.toastcdn.net/live/kbs_1tv/kbs_1tv.m3u8
-KBS World,https://kbs-hls.gslb.toastcdn.net/live/kbs_world/kbs_world.m3u8
-KBS Joy,https://kbs-hls.gslb.toastcdn.net/live/kbs_joy/kbs_joy.m3u8
-SBS TV,https://sbs-live.cdn.toast.ne.kr/sbs_live/sbs_live.m3u8
-MBC TV,https://mbc-live.cdn.toast.ne.kr/mbc_live/mbc_live.m3u8
-OBS TV,https://obs.cdn.toast.ne.kr/obs/obs.m3u8
-Arirang TV 阿里郎国际台,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-EBS 1TV 韩国教育台,https://ebs-live.cdn.toast.ne.kr/ebs1/ebs1.m3u8
-EBS 2TV 综合频道,https://ebs-live.cdn.toast.ne.kr/ebs2/ebs2.m3u8
-EBS Kids 韩国少儿,https://ebs-live.cdn.toast.ne.kr/ebskids/ebskids.m3u8
+Arirang TV (1080p 阿里郎国际台),https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+TV Chosun (720p 朝鲜TV综合频道),http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+TV Chosun 2 (720p 朝鲜TV娱乐二台),http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+EBS 1TV (韩国教育放送),https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+EBS 2TV (韩国综合教育),https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+EBS Kids (韩国少儿频道),https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+Korea TV KTV (韩国国家综合台),https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+TBS Seoul (首尔交通综合台),https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 
 🇹🇭 泰国主流电视台,#genre#
 Channel 3 (3HD 泰国3台王牌),https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8
