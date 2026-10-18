@@ -1952,6 +1952,13 @@
   ],
   "lives": [
     {
+      "name": "🌟 聚合直播 (央视/卫视/美台/港澳)",
+      "type": 0,
+      "url": "https://cdn.jsdelivr.net/gh/lichen881128-ui/my-tv@main/live.txt",
+      "playerType": 2,
+      "ua": "okhttp/3.15"
+    },
+    {
       "name": "🇨🇳 央视与各省卫视超清 (IPv4直连)",
       "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/m3u/itv.m3u",
