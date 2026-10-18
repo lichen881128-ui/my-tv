@@ -23,14 +23,30 @@ CCTV-17 农业农村,http://74.91.26.218:82/live/cctv17hd.m3u8
 北京卫视,http://107.150.60.122/live/bjwshd.m3u8
 广东卫视,http://107.150.60.122/live/gdwshd.m3u8
 
-🇺🇸 美国主流大台,#genre#
-Bloomberg TV+ (2160p 彭博4K旗舰),https://66e4bbba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8
-Bloomberg Originals (1080p 彭博原创),https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
-Bloomberg TV US (720p 彭博全美新闻),https://bloomberg.com/media-manifest/streams/us.m3u8
-beIN SPORTS XTRA (1080p 顶级体育频道),https://bein-xtra-bein.amagi.tv/playlist.m3u8
-AccuWeather NOW (720p 著名全美天气台),http://23.239.31.26:8989/accuweather/index.m3u8
+🦁 国家地理与探索纪录片,#genre#
+National Geographic Wild (国家地理野生),http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
+Discovery Channel (探索频道),http://45.171.64.30:6060/play/a032/index.m3u8
+Animal Planet (动物星球),http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+Love Nature (自然生态4K超清),https://bantel-cdn1.iptvperu.tv:1936/ZyphraCast/love-nature/chunks.m3u8
+BBC Earth (纪录片旗舰1080p),http://88.212.15.17/live/test_bbc_eartch_hevc/playlist.m3u8
+Discovery Science (探索科学频道),http://45.171.64.30:6060/play/a007/index.m3u8
+Autentic History (历史纪录大片),https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
 NASA TV (宇航局太空探索直播),https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-Red Bull TV (红牛全球极限赛事),https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+🌍 欧美著名新闻财经,#genre#
+CNN International (CNN国际新闻1080p),https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
+CNN Originals (CNN原创深度1080p),https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8
+BBC News (BBC国际新闻网),https://mumbai-edge.smartplaytv.in/BBCNews/index.m3u8
+Bloomberg TV+ (2160p 彭博4K旗舰),https://66e4bbba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8
+Bloomberg Europe (彭博欧洲财经),https://bloomberg.com/media-manifest/streams/eu.m3u8
+CNBC Europe (欧洲顶级财经1080p),http://57.128.231.171:8080/234/index.m3u8
+Euronews (欧洲新闻台官方1080p),https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
+France 24 English (法国24台英文官方),https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+France 24 French (法国24台法语官方),https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
+DW News (德国之声英文官方1080p),https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+AccuWeather NOW (全美权威天气台),http://23.239.31.26:8989/accuweather/index.m3u8
+beIN SPORTS XTRA (顶级体育频道),https://bein-xtra-bein.amagi.tv/playlist.m3u8
+Red Bull TV (极限体育赛事),https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 🇯🇵 日本主流电视台,#genre#
 日テレNEWS (NTV/日本电视台新闻网),https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
